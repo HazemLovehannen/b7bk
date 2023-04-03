@@ -1,0 +1,27 @@
+body {
+	background: #414141;
+	color: #FFFFFF;
+	font-family: tahoma, arial;
+	font-size: 12px;
+	font-weight: bold;
+	line-height: 16px;
+	margin: 0;
+	padding: 0;
+	text-align: center;
+	background-image:url(images/background.gif);
+    height: 500vh;
+    align-items: center;
+    position: relative;
+    transition: all 5s;
+}
+
+#leh{
+position:absolute; 
+bottom: 8%;
+background-color: black;
+}
+#leh2{
+position: absolute;
+bottom: 25%;
+background-color: black;
+}
